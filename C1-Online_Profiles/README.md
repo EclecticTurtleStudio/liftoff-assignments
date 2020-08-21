@@ -13,6 +13,5 @@ For this assignment you will need to upload your resume and provide links to you
 [Becky Jo Roth](https://www.linkedin.com/in/beckyjoroth)
 
 ### Resume
-I am still making changes discussed during my resume review! I will save as a PDF and upload it in the next day or two.
+[Google Doc Link](https://docs.google.com/document/d/1EgHvcBJrN-jm8eRaf9AZvheEUMXBbnVhgxo734jzctU/edit?usp=sharing)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
